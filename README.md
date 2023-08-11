@@ -1,4 +1,4 @@
-# my-promise-kit
+# my-promise-demo
 
 - await 后是 promise 对象，获取 resolve 的值
 - await 必须包裹在 async 函数内
